@@ -1,7 +1,9 @@
 echo "-----------------------------"
 pwd
 echo "-----------------------------"
-echo "Test file v1" > test.txt
+echo "Test file v2" > test.txt
 echo "-----------------------------"
 dir
+echo "-----------------------------"
+echo "Test app v1" > app.txt
 echo "-----------------------------"
